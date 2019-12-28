@@ -16,7 +16,7 @@ To run this starter project:
 
 node server in atsServer/server.js
 npm start in ats
- # 4.about app
+ # 4. About app
  I-  Backend :
  
 1- Récuperer des produits depuis l'url suivant : http://test.ats-digital.com:3000/products?size=500 et les insérer dans la base de donnée
